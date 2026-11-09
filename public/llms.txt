@@ -1,0 +1,15 @@
+# Prova React
+
+> Sito di prova in React con due pagine fittizie, un form di contatto e due lingue (italiano e inglese).
+
+## Italiano
+
+- [Home](https://example.com/it): pagina iniziale con un saluto
+- [Contatore](https://example.com/it/contatore): contatore interattivo
+- [Contatti](https://example.com/it/contatti): form di contatto
+
+## English
+
+- [Home](https://example.com/en): home page with a greeting
+- [Counter](https://example.com/en/contatore): interactive counter
+- [Contact](https://example.com/en/contatti): contact form

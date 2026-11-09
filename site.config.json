@@ -1,0 +1,10 @@
+{
+  "url": "https://example.com",
+  "langs": ["it", "en"],
+  "defaultLang": "it",
+  "routes": [
+    { "path": "", "key": "home" },
+    { "path": "contatore", "key": "counter" },
+    { "path": "contatti", "key": "contact" }
+  ]
+}
